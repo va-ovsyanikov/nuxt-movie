@@ -11,7 +11,7 @@ export const actions = {
     async nuxtServerInit({ commit }) {
         const response = await this.$axios.$get(
             'popular?api_key=096d153c42208f65d95317898071573b'
-          
+
         )
 
         commit('MOVIES_FETCH', response)
