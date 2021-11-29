@@ -5,7 +5,6 @@
        <li>Docker</li>
        <li>TailWindcss</li>
        <li>The Movie Database (TMDB), API</li>
-       <li>VDS Selectel</li>
      </ul>
   </div>
 </template>
